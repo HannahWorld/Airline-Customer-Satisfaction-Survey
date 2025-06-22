@@ -2,6 +2,8 @@
 
 SKY AIR Customer Satisfaction Survey Results '22:
 
+I created this infographic by following an online tutorial that guided the design and layout process. It was a great learning experience and helped me develop skills I can apply to future projects.
+
 ![Image of summary page](https://github.com/HannahWorld/Airline-Customer-Satisfaction-Survey/blob/main/Customer%20Satisfaction%20image.png)
 
 ----
