@@ -1,6 +1,6 @@
 # Airline-Customer-Satisfaction-Survey
 
-SKY AIR Customer Satisfaction Survey:
+SKY AIR Customer Satisfaction Survey Results '22:
 
 ![Image of summary page](https://github.com/HannahWorld/Airline-Customer-Satisfaction-Survey/blob/main/Customer%20Satisfaction%20image.png)
 
